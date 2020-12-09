@@ -135,7 +135,7 @@ Use the removeFlavorByName function below to do the following:
 */
 
 function removeFlavorByName(/*your code here*/){
-    /*your code here*/
+    /*your code here1*/
 }
 
 
